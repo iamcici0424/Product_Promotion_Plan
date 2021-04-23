@@ -1,4 +1,4 @@
-# <img width="86" src="https://oefv17-assets-dev.s3.amazonaws.com/presenter_assets/images/000/001/412/original/http___ohioeventfinder.com_organization_image_file_9111_SMG.jpg?1494416609"> Team China: Product Promotion Plan
+# <img width="25" src="https://oefv17-assets-dev.s3.amazonaws.com/presenter_assets/images/000/001/412/original/http___ohioeventfinder.com_organization_image_file_9111_SMG.jpg?1494416609"> Team China: Product Promotion Plan
 
 ## Introduction
 
