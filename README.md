@@ -10,5 +10,8 @@ During the semester, we made two presentations which include two parts: *Product
 
 ## Presentation
 * [Product Presentation](https://docs.google.com/presentation/d/1_IrUWh5czYrJo5Yw2dMxqiSxi5ziZfphZdFlYKIFYFs/edit)
+![](pics/Product.jpg)
 * [Final Market Plan Presentation](https://docs.google.com/presentation/d/1O--fM_8io9NN2XTYNgT-m3Sd8zJ5wHWm8A2kCCjzoyw/edit)
+![](pics/Final.jpg)
 * [Team China Travel Budget](https://docs.google.com/spreadsheets/d/1Z6diH1ZYvGPb6Z3mkQwViPE5rh8_9-oqxk4Xd0_x4Ag/edit#gid=1923073584)
+![](pics/Budget.jpg)
