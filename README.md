@@ -9,19 +9,19 @@ The “Global Organization” **[GO]**, a simulated global enterprise, is utiliz
 During the semester, we made two presentations which include two parts: *Product* and *Final Market Plan*. We were asked to find the Operation Mode or Products we would like to promote to another country, and research more about it. Our team chose Studio Movie Grill and we wanted to promote its operation mode to China.
 
 ## Presentation
-* [Product Presentation](https://docs.google.com/presentation/d/1_IrUWh5czYrJo5Yw2dMxqiSxi5ziZfphZdFlYKIFYFs/edit)
+* [Product Presentation](https://docs.google.com/presentation/d/1_IrUWh5czYrJo5Yw2dMxqiSxi5ziZfphZdFlYKIFYFs/edit?usp=sharing)
 
 <p align="center">
   <img width="500" src=pics/Product.jpg>
 </p>
 
-* [Final Market Plan Presentation](https://docs.google.com/presentation/d/1O--fM_8io9NN2XTYNgT-m3Sd8zJ5wHWm8A2kCCjzoyw/edit)
+* [Final Market Plan Presentation](https://docs.google.com/presentation/d/1O--fM_8io9NN2XTYNgT-m3Sd8zJ5wHWm8A2kCCjzoyw/edit?usp=sharing)
 
 <p align="center">
   <img width="500" src=pics/Final.jpg>
 </p>
 
-* [Team China Travel Budget](https://docs.google.com/spreadsheets/d/1Z6diH1ZYvGPb6Z3mkQwViPE5rh8_9-oqxk4Xd0_x4Ag/edit#gid=1923073584)
+* [Team China Travel Budget](https://docs.google.com/spreadsheets/d/1Z6diH1ZYvGPb6Z3mkQwViPE5rh8_9-oqxk4Xd0_x4Ag/edit?usp=sharing)
 
 <p align="center">
   <img width="500" src=pics/Budget.jpg>
